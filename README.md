@@ -15,7 +15,7 @@ This project allows you to integrate your NIBE SMO40 and other NIBE heat pumps w
 7. Replace the **OTA password** with your own.
 8. Replace the **Home Assistant IP address** with your own.
 
-> Tip: Make sure your `secrets.yaml` is properly configured with your keys and IP address to avoid errors during compilation.
+> Tip: Make sure your `secrets.yaml` is properly configured to avoid errors during compilation.
 
 ---
 
