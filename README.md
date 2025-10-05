@@ -11,9 +11,10 @@ This project allows you to integrate your NIBE SMO40 and other NIBE heat pumps w
 3. Choose **empty configuration**.
 4. Give your device a descriptive **name**.
 5. Copy the contents of `gateway.yaml` from this repository into your new device configuration.
-6. Replace the **API encryption key** with your own.
-7. Replace the **OTA password** with your own.
-8. Replace the **Home Assistant IP address** with your own.
+   **No other files from the GitHub repository need to be copied.**
+7. Replace the **API encryption key** with your own.
+8. Replace the **OTA password** with your own.
+9. Replace the **Home Assistant IP address** with your own.
 
 > Tip: Make sure your `secrets.yaml` is properly configured to avoid errors during compilation.
 
